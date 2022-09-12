@@ -11,7 +11,7 @@ img {
   width: 1000px;
   position: relative;
   left: 200px;
-  bottom: 200px;
+  bottom: 275px;
   border-radius: 10px;
 }
 
@@ -85,4 +85,7 @@ h2 {
 }
 .time-temperature {
   padding-left: 24px;
+}
+.repositary {
+  width: fit-content;
 }
